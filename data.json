@@ -17,7 +17,25 @@
 		"link":"doc",
 		"image":"transaction"
 	},
+	 {
+		"type": "Mail",
+		"feeds": [{
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
 
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}],
+		"link":"doc",
+		"image":"mail"
+	},
 	{
 		"type": "Warning",
 		"feeds": [{
@@ -36,8 +54,10 @@
 		}],
 		"link":"doc",
 		"image":"warning"
-	}, {
-		"type": "Mail",
+	},
+
+	{
+		"type": "Promotional News",
 		"feeds": [{
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
@@ -53,6 +73,63 @@
 			"tags": ["EFI", "DEPOSITS"]
 		}],
 		"link":"doc",
-		"image":"mail"
+		"image":"news"
+	},
+	{
+		"type": "Product Updates",
+		"feeds": [{
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}],
+		"link":"doc",
+		"image":"product"
+	},
+	{
+		"type": "User Changes",
+		"feeds": [{
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}],
+		"link":"doc",
+		"image":"user"
+	},
+	{
+		"type": "Others",
+		"feeds": [{
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["EFI", "DEPOSITS"]
+		}],
+		"link":"doc",
+		"image":"other"
 	}
 ]
