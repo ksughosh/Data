@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Transaction</title>
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="CSS/style.css">
+		<link rel="stylesheet" type="text/css" href="CSS/multiline-ellipsis.scss">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+</head>
+<body ng-app = "ScalableAssignment" ng-controller = "appController">
+	<div class = "container" ng-repeat="dat in datasf" ng-if="$index === 5">
+		<img ng-src = "Icons/{{dat.image}}.png" style="height: 50px; width: 50px; margin-left: 12px;">
+		<h1 class="heads" style="display: inline-block;"><strong>{{dat.type}}</strong></h1>
+		<div ng-repeat = "feed in dat.feeds">
+			<h2 class = "feedHeading">{{feed.feedTitle}}</h2>
+			<p class = "feed"><strong>{{feed.feedAbstract}}</strong></p>
+			<div class="tagIcon"><img class="inIcon" src="Icons/tag.png" alt=""></div>
+      		<div class="feedTags col-md-1" ng-repeat = "tag in feed.tags">{{tag}} </div>
+		</div>
+	</div>
+</body>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.2.4/ui-bootstrap.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/1.2.4/ui-bootstrap-tpls.min.js"></script>
+	<script src="assign.js"></script>
+	<script src="scripts/appController.js"></script>
+	<script src="scripts/appFactory.js"></script>
+</html>
