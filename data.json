@@ -3,16 +3,16 @@
 		"feeds": [{
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. Duis aute irure dolor in reprehenderit in voluptate. Duis aute irure dolor in reprehenderit in voluptate. Duis aute irure dolor in reprehenderit in voluptate",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["EFI", "DEPOSITS", "NEW-TAG"]
 
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["FEES"]
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["WITHDRAWALS", "OTHERS"]
 		}],
 		"link":"doc",
 		"image":"transaction"
@@ -22,16 +22,16 @@
 		"feeds": [{
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["TAX REPORT", "BILLS"]
 
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["BILLS"]
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["REPORT", "OTHERS"]
 		}],
 		"link":"doc",
 		"image":"mail"
@@ -41,58 +41,58 @@
 		"feeds": [{
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["PROFIT", "LEGAL"]
 
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["LOSS", "LEGAL"]
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["FINANCES", "REPORT"]
 		}],
 		"link":"doc",
 		"image":"warning"
 	},
 
 	{
-		"type": "Promotional News",
-		"feeds": [{
-			"feedTitle": "Sample Title of Feeds",
-			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
-
-		}, {
-			"feedTitle": "Sample Title of Feeds",
-			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
-		}, {
-			"feedTitle": "Sample Title of Feeds",
-			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
-		}],
-		"link":"doc",
-		"image":"news"
-	},
-	{
 		"type": "Product Updates",
 		"feeds": [{
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["PRODUCT CHANGES", "SAVINGS PLAN"]
 
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["PRODUCT", "ASSESMENT"]
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["PRODUCT CHANGES"]
 		}],
 		"link":"doc",
 		"image":"product"
+	},
+	{
+		"type": "Promotional News",
+		"feeds": [{
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["TIMELINE"]
+
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["DEVELOPMENT", "PROGESS"]
+		}, {
+			"feedTitle": "Sample Title of Feeds",
+			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
+			"tags": ["PROMOTION"]
+		}],
+		"link":"doc",
+		"image":"news"
 	},
 	{
 		"type": "User Changes",
@@ -118,16 +118,16 @@
 		"feeds": [{
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["NEWS", "ORGANIZATION"]
 
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["WELCOME", "BOX"]
 		}, {
 			"feedTitle": "Sample Title of Feeds",
 			"feedAbstract": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate ...",
-			"tags": ["EFI", "DEPOSITS"]
+			"tags": ["TAG_1","TAG_1", "TAG_2"]
 		}],
 		"link":"doc",
 		"image":"other"
