@@ -17,7 +17,7 @@
 			"tags": ["WITHDRAWALS", "OTHERS"],
 			"link":"doc"
 		}],
-		"main-link":"transact",
+		"mainLink":"transact",
 		"image":"transaction"
 	},
 	 {
@@ -39,7 +39,7 @@
 			"tags": ["REPORT", "OTHERS"],
 			"link":"doc"
 		}],
-		"main-link":"mail",
+		"mainLink":"mail",
 		"image":"mail"
 	},
 	{
@@ -61,7 +61,7 @@
 			"tags": ["FINANCES", "REPORT"],
 			"link":"doc"
 		}],
-		"main-link":"warn",
+		"mainLink":"warn",
 		"image":"warning"
 	},
 
@@ -84,7 +84,7 @@
 			"tags": ["PRODUCT CHANGES"],
 			"link":"doc"
 		}],
-		"main-link":"product",
+		"mainLink":"product",
 		"image":"product"
 	},
 	{
@@ -106,7 +106,7 @@
 			"tags": ["PROMOTION"],
 			"link":"doc"
 		}],
-		"main-link":"doc",
+		"mainLink":"doc",
 		"image":"news"
 	},
 	{
@@ -128,7 +128,7 @@
 			"tags": ["EFI", "DEPOSITS"],
 			"link":"doc"
 		}],
-		"main-link":"user",
+		"mainLink":"user",
 		"image":"user"
 	},
 	{
@@ -150,7 +150,7 @@
 			"tags": ["TAG_1","TAG_1", "TAG_2"],
 			"link":"doc"
 		}],
-		"main-link":"other",
+		"mainLink":"other",
 		"image":"other"
 	}
 ]
