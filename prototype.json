@@ -1,25 +1,26 @@
 [
     {
         "userName" : "Sughosh K",
-        "icon" : "https://www.xing.com/image/0_1_f_e38e9cfe1_18597618_1/sughosh-krishna-kumar-foto.1024x1024.jpg",
+        "icon" : "learn_network",
         "description": "5th Semester, MSc. MI, RWTH",
         "post":"Just uploaded a prototype design on Behance. They seem to have a lot of interesting designs and patterns that could be used"
+       
     },
     {
         "userName" : "Matt Craff",
-        "icon" : "http://assets1.ignimgs.com/2015/04/08/daredevil-1280jpg-782297_1280w.jpg",
+        "icon" : "matt",
         "description": "3rd Semester, MSc. MI, RWTH",
         "post":"Spotify updated their playlists, this time they have nailed the collections!" 
     },
     {
         "userName" : "Florian",
-        "icon" : "https://cdn3.iconfinder.com/data/icons/stroke/53/21-512.png",
+        "icon" : "florian",
         "description": "5th Semester, MSc. SSE, RWTH",
         "post":"Reliable, well-engineered test automation is often a mythical goal that developers agree is a good idea, but in reality don’t have the time and resources to execute properly. "
     },
     {
-        "userName" : "Mie",
-        "icon" : "https://pbs.twimg.com/profile_images/651816600350400512/RNhr9HNu.jpg",
+        "userName" : "Mei",
+        "icon" : "mei",
         "description": "3rd Semester, MSc. SSE, RWTH",
         "post":"Some have shed light into the build stack, tools, and processes used in the project, such as migrating to Android Studio and Gradle, using Crashlytics, and much more."
     }
