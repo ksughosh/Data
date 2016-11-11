@@ -1,47 +1,46 @@
 [
-	// List of pins that need to be placed
     {
       "pin": {
-        "id": "21213",
-        "positionFromLeftPercent": 30,
-        "positionFromTopPercent": 60,
-        "realGeocodedLat": 17.23893,							// For determining the nearest point of interest for user
-        "realGeocodedLng": 34.23422,							// For determining the nearest point of interest for user
+        "id": "21214",
+        "positionFromLeftPercent": 60,			// Point position from left
+        "positionFromTopPercent": 30,			// Point position from top
+        "realGeocodedLat": 17.23893,			// For determining the point of interest based on proximity
+        "realGeocodedLng": 34.23422,
         "videoList": [
           {
-            "id": "2223232",									// Use this id to query for video download (FTP)
-            "thumbURL": "http://128.37.1.232/thumb?2223232.jpg"	// using GET for image thumbnail panorama image
+            "id": "2223237",
+            "title": "video title 2223237",		// Title to display the list
+            "videoURL": "http://128.37.1.232/video?2223237.mp4",	// Download url of the video
+            "thumbURL": "http://128.37.1.232/thumb?2223237.jpg"		// GET the image panorama thumbnail
           },
           {
-            "id": "2223234",
-            "thumbURL": "http://128.37.1.232/thumb?2223234.jpg"
-          },
-          {
-            "id": "2223235",
-            "thumbURL": "http://128.37.1.232/thumb?2223235.jpg"
-          },
-          {
-            "id": "2223236",
-            "thumbURL": "http://128.37.1.232/thumb?2223236.jpg"
+            "id": "2223238",
+            "title": "video title 2223238",
+            "videoURL": "http://128.37.1.232/video?2223238.mp4",
+            "thumbURL": "http://128.37.1.232/thumb?2223238.jpg"
           }
         ]
       }
     },
     {
       "pin": {
-        "id": "21214",
+        "id": "21215",
         "positionFromLeftPercent": 60,
-        "positionFromTopPercent": 30,
-        "realGeocodedLat": 17.23893,
+        "positionFromTopPercent": 70,
+        "realGeocodedLat": 21.23893,
         "realGeocodedLng": 34.23422,
         "videoList": [
           {
-            "id": "2223237",
-            "thumbURL": "http://128.37.1.232/thumb?2223237.jpg"
+            "id": "2223239",
+            "title": "video title 2223239",
+            "videoURL": "http://128.37.1.232/video?2223239.mp4",
+            "thumbURL": "http://128.37.1.232/thumb?2223239.jpg"
           },
           {
-            "id": "2223238",
-            "thumbURL": "http://128.37.1.232/thumb?2223238.jpg"
+            "id": "2223240",
+            "title": "video title 2223240",
+            "videoURL": "http://128.37.1.232/video?2223240.mp4",
+            "thumbURL": "http://128.37.1.232/thumb?2223240.jpg"
           }
         ]
       }
