@@ -1,0 +1,49 @@
+[
+	// List of pins that need to be placed
+    {
+      "pin": {
+        "id": "21213",
+        "positionFromLeftPercent": 30,
+        "positionFromTopPercent": 60,
+        "realGeocodedLat": 17.23893,							// For determining the nearest point of interest for user
+        "realGeocodedLng": 34.23422,							// For determining the nearest point of interest for user
+        "videoList": [
+          {
+            "id": "2223232",									// Use this id to query for video download (FTP)
+            "thumbURL": "http://128.37.1.232/thumb?2223232.jpg"	// using GET for image thumbnail panorama image
+          },
+          {
+            "id": "2223234",
+            "thumbURL": "http://128.37.1.232/thumb?2223234.jpg"
+          },
+          {
+            "id": "2223235",
+            "thumbURL": "http://128.37.1.232/thumb?2223235.jpg"
+          },
+          {
+            "id": "2223236",
+            "thumbURL": "http://128.37.1.232/thumb?2223236.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "pin": {
+        "id": "21214",
+        "positionFromLeftPercent": 60,
+        "positionFromTopPercent": 30,
+        "realGeocodedLat": 17.23893,
+        "realGeocodedLng": 34.23422,
+        "videoList": [
+          {
+            "id": "2223237",
+            "thumbURL": "http://128.37.1.232/thumb?2223237.jpg"
+          },
+          {
+            "id": "2223238",
+            "thumbURL": "http://128.37.1.232/thumb?2223238.jpg"
+          }
+        ]
+      }
+    }
+]
