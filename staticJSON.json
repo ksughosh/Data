@@ -1,42 +1,58 @@
-{
-	"pinList": [{
-		"id": "21214",
-		"positionFromLeftPercent": 60,
-		"positionFromTopPercent": 30,
-		"realGeocodedLat": 17.23893,
-		"realGeocodedLng": 34.23422,
-		"videoList": [{
-			"id": "2223237",
-			"title": "video title 2223237",
-			"videoURL": "http://128.37.1.232/video?2223237.mp4",
-			"thumbURL": "http://128.37.1.232/thumb?2223237.jpg"
-		}, {
-			"id": "2223238",
-			"title": "video title 2223238",
-			"videoURL": "http://128.37.1.232/video?2223238.mp4",
-			"thumbURL": "http://128.37.1.232/thumb?2223238.jpg"
-		}]
-	}, {
-		"id": "21215",
-		"positionFromLeftPercent": 60,
-		"positionFromTopPercent": 70,
-		"realGeocodedLat": 21.23893,
-		"realGeocodedLng": 34.23422,
-		"videoList": [{
-			"id": "2223239",
-			"title": "video title 2223239",
-			"videoURL": "http://128.37.1.232/video?2223239.mp4",
-			"thumbURL": "http://128.37.1.232/thumb?2223239.jpg"
-		}, {
-			"id": "2223240",
-			"title": "video title 2223240",
-			"videoURL": "http://128.37.1.232/video?2223240.mp4",
-			"thumbURL": "http://128.37.1.232/thumb?2223240.jpg"
-		}, {
-			"id": "2223241",
-			"title": "video title 2223241",
-			"videoURL": "http://128.37.1.232/video?2223241.mp4",
-			"thumbURL": "http://128.37.1.232/thumb?2223241.jpg"
-		}]
-	}]
+{  
+   "pin":[  
+      {  
+         "id":415,
+         "positionFromLeftPercent":60,
+         "positionFromTopPercent":30,
+         "videoList":[  
+            {  
+               "id":371,
+               "name":"Skicircus: A sublime off-piste experience",
+               "videoURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-Freeride-Gear-VR.mp4",
+               "thumbURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-App-Bild.jpg",
+               "duration":null,
+               "panoUrl":null
+            },
+            {  
+               "id":371,
+               "name":"Skicircus: A sublime off-piste experience",
+               "videoURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-Freeride-Gear-VR.mp4",
+               "thumbURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-App-Bild.jpg",
+               "duration":null,
+               "panoUrl":null
+            }
+         ]
+      },
+      {  
+         "id":416,
+         "positionFromLeftPercent":60,
+         "positionFromTopPercent":70,
+         "videoList":[  
+            {  
+               "id":371,
+               "name":"Skicircus: A sublime off-piste experience",
+               "videoURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-Freeride-Gear-VR.mp4",
+               "thumbURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-App-Bild.jpg",
+               "duration":null,
+               "panoUrl":null
+            },
+            {  
+               "id":371,
+               "name":"Skicircus: A sublime off-piste experience",
+               "videoURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-Freeride-Gear-VR.mp4",
+               "thumbURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-App-Bild.jpg",
+               "duration":null,
+               "panoUrl":null
+            },
+            {  
+               "id":371,
+               "name":"Skicircus: A sublime off-piste experience",
+               "videoURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-Freeride-Gear-VR.mp4",
+               "thumbURL":"http:\/\/vr-admin.austria.info\/wp-content\/uploads\/2016\/09\/Saalbach-App-Bild.jpg",
+               "duration":null,
+               "panoUrl":null
+            }
+         ]
+      }
+   ]
 }
